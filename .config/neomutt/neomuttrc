@@ -1,0 +1,56 @@
+set editor = "vim"
+set my_name = "Bhanu Praharsha Rapelly"
+set imap_check_subscribed
+set envelope_from
+set edit_headers
+set beep_new
+set attribution = "On %d, %n wrote:"
+set status_chars = " *%A"
+set date_format = "%d.%m.%Y %H:%M"
+set sort = threads
+set charset = "utf-8"
+unset help
+
+set pager_index_lines = 10
+set pager_context = 3
+set menu_scroll
+set tilde
+
+set realname = "Bhanu Rapelly"
+set imap_pass = "yellowflash !23"
+set imap_user = "bhanu.rapelly25@gmail.com"
+set smtp_url = "smtps://bhanu.rapelly25@gmail.com@smtp.gmail.com:465/"
+set smtp_pass = "yellowflash !23"
+set folder = "imaps://bhanu.rapelly25@gmail.com@imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set record = "+[Gmail]/Sent Mail"
+set trash = "+[Gmail]/Trash"
+set postponed = "+[Gmail]/Drafts"
+set mail_check = 6
+
+set sleep_time = 0
+set beep=no
+#set index_format = "%4C %Z %{%b %d %R} %-15.15L (%?l?%4l&%4c?) %s"
+set sidebar_visible
+set mail_check_stats
+set sidebar_format="%B%?F? [%F]?%* %?N?%N/?%S"
+
+mailboxes =INBOX =[Gmail]/Sent\ Mail =[Gmail]/Drafts =[Gmail]/Spam =[Gmail]/Trash
+
+#vim like bindings
+bind attach,index,pager \CD next-page
+bind attach,index,pager \CU previous-page
+bind pager g top
+bind pager G bottom
+bind attach,index g first-entry
+bind attach,index G last-entry
+
+bind index,pager \CP sidebar-prev		#Ctrl-p to select prev folder
+bind index,pager \CN sidebar-next
+bind index,pager \CO sidebar-open
+bind index,pager \CB sidebar-toggle-visible
+
+bind pager j next-line
+bind pager k previous-line
+bind pager l view-attachments
+

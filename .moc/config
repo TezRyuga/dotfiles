@@ -1,0 +1,5 @@
+#Theme = yellow_red_theme
+Theme = mostly_green
+OnSongChange = "home/xorlv/.moc/onsongchange %song "
+RepeatSongChange = yes
+PlaylistFullPaths = no

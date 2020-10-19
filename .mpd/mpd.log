@@ -1,0 +1,655 @@
+Sep 26 22:13 : update: added /Halcyon - Runaway (Culture Code Remix) (feat.mp3
+Sep 26 22:13 : update: added /file_(donkool.com).mp3
+Sep 26 22:13 : update: added /Arctic Monkeys - Do I Wanna Know - Do I Wanna Know.mp3
+Sep 26 22:13 : update: added /[FVOst.net] EMPiRE - Black to the dreamlight.mp3
+Sep 26 22:13 : update: added /The Greatest Show _from The Greatest Showman Soundtrack_ [Official Audio].mp3
+Sep 26 22:13 : update: added /YM_Fight.mp3
+Sep 26 22:13 : update: added /NEFFEX - Greatest(playvk.com).mp3
+Sep 26 22:13 : update: added /tumblr_m3iw7vq6Wd1rnvv34o1_r1.mp3
+Sep 26 22:13 : update: added /Ansatsu KyoushitsuHello, Shooting Star English SubsRomaji.mp3
+Sep 26 22:13 : update: added /13 Time to Get Ill.mp3
+Sep 26 22:13 : update: added /Faouzia - Tears of Gold.mp3
+Sep 26 22:13 : update: added /EMPiRE - Black to the dreamlight.mp3
+Sep 26 22:13 : update: added /NEFFEX_Soldier_(mp3co.biz).mp3
+Sep 26 22:13 : update: added /NEFFEX - Unstoppable(playvk.com).mp3
+Sep 26 22:13 : update: added /NEFFEX - Fight Back(playvk.com).mp3
+Sep 26 22:13 : update: added /Daneliya Tuleshova  'Tears of Gold'   (Lyrics) from America's Got Talent 2020-cqAyAAFmfx4.m4a
+Sep 26 22:13 : update: added /DJ Snake - Magenta Riddim 320kbps(Onmirchi.in).mp3
+Sep 26 22:13 : update: added /NEFFEX - Best of Me(playvk.com).mp3
+Sep 26 22:13 : update: added /U Turn - The Karma Theme (Telugu) - Samantha - Anirudh Ravichander - Pawan Kumar (320  kbps) (ytformp3.com).mp3
+Sep 26 22:13 : update: added /Bon Jovi - Bed Of Roses (Official Music Video).mp3
+Sep 26 22:13 : update: added /NEFFEX - Never Give Up(playvk.com).mp3
+Sep 26 22:13 : update: added /NEFFEX - Destiny(playvk.com).mp3
+Sep 26 22:13 : update: added /Maggie_Lindemann_-_Pretty_Girl_Cheat_Codes_x_CADE_Remix_Official_Video[SaveFrom.online].mp3
+Sep 26 22:13 : update: added /NEFFEX - Rumors -(playvk.com).mp3
+Sep 26 22:13 : update: added /NEFFEX_NEFFEX_Cold_(mp3co.biz).mp3
+Sep 26 22:13 : update: added /Bebe_Rexha_I_m_A_Mess_Official_Music_Video_.mp3
+Sep 26 22:13 : update: added /David Bulla - David Bulla & INITPATCH - Runaway [MP3].mp3
+Sep 26 22:13 : update: added /NEFFEX - Failure(playvk.com).mp3
+Sep 26 22:13 : update: added /NEFFEX - Careless(playvk.com).mp3
+Sep 26 22:13 : update: added /[Manganime]_01._Freesia.mp3
+Sep 26 22:13 : update: added /06-girls.mp3
+Sep 26 22:13 : update: added /NEFFEX_Nightcore_Graveyard_ft_NEFFEX_(mp3co.biz).mp3
+Sep 26 22:13 : avahi: Service 'Music Player @ tr' successfully established.
+Sep 26 22:15 : avahi: Initializing interface
+Sep 26 22:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 26 22:15 : avahi: Client changed to state 2
+Sep 26 22:15 : avahi: Client is RUNNING
+Sep 26 22:15 : avahi: Registering service _mpd._tcp/Music Player @ tr
+Sep 26 22:15 : avahi: Service group changed to state 0
+Sep 26 22:15 : avahi: Service group is UNCOMMITED
+Sep 26 22:15 : avahi: Service group changed to state 1
+Sep 26 22:15 : avahi: Service group is REGISTERING
+Sep 26 22:15 : avahi: Service group changed to state 2
+Sep 26 22:15 : avahi: Service 'Music Player @ tr' successfully established.
+Sep 26 22:15 : client: [0] opened from 127.0.0.1:50200
+Sep 26 22:15 : client: [0] process command "status"
+Sep 26 22:15 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "plchanges "0""
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "outputs"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "decoders"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "outputs"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "outputs"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:15 : client: [0] process command "update "/""
+Sep 26 22:15 : update: spawned thread for update job id 1
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : update: starting
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:15 : client: [0] process command "status"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : update: finished
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:15 : client: [0] process command "status"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:15 : client: [0] process command "update "/""
+Sep 26 22:15 : update: spawned thread for update job id 2
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : update: starting
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:15 : client: [0] process command "status"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : update: finished
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:15 : client: [0] process command "status"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:15 : client: [0] process command "update "/""
+Sep 26 22:15 : update: spawned thread for update job id 3
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : update: starting
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:15 : client: [0] process command "status"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : update: finished
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:15 : client: [0] process command "status"
+Sep 26 22:15 : client: [0] command returned 0
+Sep 26 22:15 : client: [0] process command "idle"
+Sep 26 22:15 : client: [0] command returned 1
+Sep 26 22:16 : client: [0] process command "stop"
+Sep 26 22:16 : client: [0] command returned 0
+Sep 26 22:16 : client: [0] process command "idle"
+Sep 26 22:16 : client: [0] command returned 1
+Sep 26 22:16 : client: [0] process command "stop"
+Sep 26 22:16 : client: [0] command returned 0
+Sep 26 22:16 : client: [0] process command "idle"
+Sep 26 22:16 : client: [0] command returned 1
+Sep 26 22:16 : client: [0] closed
+Sep 26 22:31 : avahi: Shutting down interface
+Sep 26 22:31 : avahi: Service 'Music Player @ tr' successfully established.
+Sep 26 22:32 : avahi: Initializing interface
+Sep 26 22:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 26 22:32 : avahi: Client changed to state 2
+Sep 26 22:32 : avahi: Client is RUNNING
+Sep 26 22:32 : avahi: Registering service _mpd._tcp/Music Player @ tr
+Sep 26 22:32 : avahi: Service group changed to state 0
+Sep 26 22:32 : avahi: Service group is UNCOMMITED
+Sep 26 22:32 : avahi: Service group changed to state 1
+Sep 26 22:32 : avahi: Service group is REGISTERING
+Sep 26 22:32 : avahi: Service group changed to state 2
+Sep 26 22:32 : avahi: Service 'Music Player @ tr' successfully established.
+Sep 26 23:28 : avahi: Shutting down interface
+Oct 06 17:33 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 06 17:33 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 06 17:37 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 06 17:37 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 06 17:39 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 06 17:39 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 06 17:41 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 06 17:41 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 06 17:42 : update: removing Bon Jovi - Bed Of Roses (Official Music Video).mp3
+Oct 06 17:42 : update: removing Ansatsu KyoushitsuHello, Shooting Star English SubsRomaji.mp3
+Oct 06 17:42 : update: removing Maggie_Lindemann_-_Pretty_Girl_Cheat_Codes_x_CADE_Remix_Official_Video[SaveFrom.online].mp3
+Oct 06 17:42 : update: removing David Bulla - David Bulla & INITPATCH - Runaway [MP3].mp3
+Oct 06 17:42 : update: removing Daneliya Tuleshova  'Tears of Gold'   (Lyrics) from America's Got Talent 2020-cqAyAAFmfx4.m4a
+Oct 06 17:42 : update: removing U Turn - The Karma Theme (Telugu) - Samantha - Anirudh Ravichander - Pawan Kumar (320  kbps) (ytformp3.com).mp3
+Oct 06 17:42 : update: removing The Greatest Show _from The Greatest Showman Soundtrack_ [Official Audio].mp3
+Oct 06 17:42 : update: removing DJ Snake - Magenta Riddim 320kbps(Onmirchi.in).mp3
+Oct 06 17:42 : update: removing Arctic Monkeys - Do I Wanna Know - Do I Wanna Know.mp3
+Oct 06 17:42 : update: removing 06-girls.mp3
+Oct 06 17:42 : update: removing 13 Time to Get Ill.mp3
+Oct 06 17:42 : update: removing tumblr_m3iw7vq6Wd1rnvv34o1_r1.mp3
+Oct 06 17:42 : update: removing YM_Fight.mp3
+Oct 06 17:42 : update: added /「Nightcore」→ Paper Crown.opus
+Oct 06 17:42 : update: added /Arthur Gunn - Have you ever seen the rain.opus
+Oct 06 17:42 : update: added /Daft Punk - End Credits-Tron Legacy Soundtrack.opus
+Oct 06 17:42 : update: added /Illenium - Broken Ones(Lyrics)ft. Anna Clendening.opus
+Oct 06 17:42 : update: added /Daft Punk-Derezzed (Complete Version).opus
+Oct 06 17:42 : update: added /DROELOE - Only Be Me.opus
+Oct 06 17:42 : update: added /U Turn - The Karma Theme (Telugu).mp3
+Oct 06 17:42 : update: added /David Bulla & INITPATCH - Runaway.mp3
+Oct 06 17:42 : update: added /Steam Phunk - Sophie (feat. Yosie).opus
+Oct 06 17:42 : update: added /Fytch - Radiate.opus
+Oct 06 17:42 : update: added /SHINee 샤이니 'Tell Me What To Do'.opus
+Oct 06 17:42 : update: added /Rerezzed - Legacy - The Glitch Mob _ Daft Punk Derezzed Remix.opus
+Oct 06 17:42 : update: added /'WHO WILL REMEMBER ME' by Twelve Titans Music.opus
+Oct 06 17:42 : update: added /Dabin - Holding On (feat. Lowell).opus
+Oct 06 17:42 : update: added /AViVA - WICKED.opus
+Oct 06 17:42 : update: added /Merk & Kremont - Sad Story (Out Of Luck).opus
+Oct 06 17:42 : update: added /The Tech Thieves - Flowers.opus
+Oct 06 17:42 : update: added /►Divinity ♬ AMV.opus
+Oct 06 17:42 : update: added /RISE (ft.The Glitch Mob,Mako,and The Word Alive)-League of Legends.opus
+Oct 06 17:42 : update: added /Maggie_Lindemann_-_Pretty_Girl_Cheat_Codes_x_CADE_Remix.mp3
+Oct 06 17:42 : update: added /Oooi ! Oooi !!-Takehara Pistol.opus
+Oct 06 17:42 : update: added /LiSA - Crossing Field メガスピーカー .m4a
+Oct 06 17:42 : update: added /LiSA - unlasting.opus
+Oct 06 17:42 : update: added /EXO - 'Electric Kiss'.m4a
+Oct 06 17:42 : update: added /【Nightcore】→ Hurricane.opus
+Oct 06 17:42 : update: added /Daneliya Tuleshova-'Tears of Gold'(cover).m4a
+Oct 06 17:42 : update: added /Ansatsu Kyoushitsu-Hello,Shooting Star.mp3
+Oct 06 17:42 : update: added /Remember The Name - Fort Minor.opus
+Oct 06 17:42 : update: added /Arctic Monkeys - Do I Wanna Know.mp3
+Oct 06 17:42 : update: added /Mia Vaile - American Dream.opus
+Oct 06 17:42 : update: added /The Greatest Show _from The Greatest Showman.mp3
+Oct 06 17:42 : update: added /Bon Jovi - Bed Of Roses.mp3
+Oct 06 17:42 : update: added /THE BANJO BEAT - RICKY DESKTOP.opus
+Oct 06 17:42 : update: added /Angels & Airwaves - The Adventure.opus
+Oct 06 17:42 : update: added /Alec Benjamin - Let Me Down Slowly.opus
+Oct 06 17:42 : update: added /DJ Snake - Magenta Riddim.mp3
+Oct 06 17:42 : update: added /DAFT PUNK - THE GAME HAS CHANGED(Tron legacy).opus
+Oct 06 17:42 : update: added /Extra Terra - Cyberpunk.opus
+Oct 06 17:42 : update: added /Neovaii - Easily.opus
+Oct 06 17:42 : update: added /4URA - Calamity-rcTe-8ui4fU.opus
+Oct 06 17:42 : update: added /Jon Bellion - All Time Low.opus
+Oct 06 17:42 : update: added /SKRILLEX - Bangarang feat. Sirah.opus
+Oct 06 17:42 : update: added /Ekali & Elohim - Fairy Tale.opus
+Oct 06 17:42 : update: added /Illenium - It's All On U(feat. Liam O'Donnell).opus
+Oct 06 17:42 : update: added /kimi no toriko to relax_chill to.opus
+Oct 06 17:42 : update: added /Cadmium - Melody (ft. Jon Becker).opus
+Oct 06 17:42 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 17:43 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 17:43 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 17:43 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 17:43 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 17:46 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 06 18:10 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 06 18:10 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 06 18:10 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 18:11 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 06 18:52 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 18:53 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 06 18:53 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 18:58 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 06 19:00 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 19:00 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 06 19:00 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 19:03 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 06 19:05 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 19:05 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 06 19:06 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 06 19:06 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 06 19:06 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 19:10 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 06 19:25 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 19:29 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 06 19:29 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 19:29 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 06 19:31 : update: removing file_(donkool.com).mp3
+Oct 06 19:31 : update: added /Keep on-Zonderling.mp3
+Oct 06 23:57 : player: played "file_(donkool.com).mp3"
+Oct 07 11:08 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 07 11:08 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 07 11:08 : exception: No such song
+Oct 07 11:08 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 11:13 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 07 11:13 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 11:18 : player: played "EMPiRE - Black to the dreamlight.mp3"
+Oct 07 11:22 : player: played "Halcyon - Runaway (Culture Code Remix) (feat.mp3"
+Oct 07 11:22 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 11:25 : player: played "Faouzia - Tears of Gold.mp3"
+Oct 07 11:25 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 11:28 : player: played "Maggie_Lindemann_-_Pretty_Girl_Cheat_Codes_x_CADE_Remix.mp3"
+Oct 07 11:28 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 11:31 : player: played "DAFT PUNK - THE GAME HAS CHANGED(Tron legacy).opus"
+Oct 07 11:31 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 12:28 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 12:28 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 12:32 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 07 14:07 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 07 14:44 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 07 14:44 : exception: No such song
+Oct 07 14:44 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 14:48 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 07 14:52 : player: played "Neovaii - Easily.opus"
+Oct 07 14:52 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 14:52 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 14:54 : player: played "Daneliya Tuleshova-'Tears of Gold'(cover).m4a"
+Oct 07 14:54 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 14:59 : player: played "【Nightcore】→ Hurricane.opus"
+Oct 07 14:59 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:04 : player: played "Arctic Monkeys - Do I Wanna Know.mp3"
+Oct 07 15:10 : player: played "[Manganime]_01._Freesia.mp3"
+Oct 07 15:10 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:10 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:10 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:14 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:19 : player: played "NEFFEX - Careless(playvk.com).mp3"
+Oct 07 15:23 : player: played "Bebe_Rexha_I_m_A_Mess_Official_Music_Video_.mp3"
+Oct 07 15:23 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:26 : player: played "Illenium - Broken Ones(Lyrics)ft. Anna Clendening.opus"
+Oct 07 15:26 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:30 : player: played "LiSA - Crossing Field メガスピーカー .m4a"
+Oct 07 15:30 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 15:30 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:35 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:35 : player: played "David Bulla & INITPATCH - Runaway.mp3"
+Oct 07 15:36 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 15:36 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:38 : player: played "Steam Phunk - Sophie (feat. Yosie).opus"
+Oct 07 15:38 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:44 : player: played "[FVOst.net] EMPiRE - Black to the dreamlight.mp3"
+Oct 07 15:48 : player: played "NEFFEX - Rumors -(playvk.com).mp3"
+Oct 07 15:52 : player: played "Halcyon - Runaway (Culture Code Remix) (feat.mp3"
+Oct 07 15:52 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 15:52 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 15:58 : player: played "Rerezzed - Legacy - The Glitch Mob _ Daft Punk Derezzed Remix.opus"
+Oct 07 16:02 : player: played "Ekali & Elohim - Fairy Tale.opus"
+Oct 07 16:07 : player: played "kimi no toriko to relax_chill to.opus"
+Oct 07 16:11 : player: played "Merk & Kremont - Sad Story (Out Of Luck).opus"
+Oct 07 16:14 : player: played "Alec Benjamin - Let Me Down Slowly.opus"
+Oct 07 16:14 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 16:17 : player: played "NEFFEX - Best of Me(playvk.com).mp3"
+Oct 07 16:20 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 16:20 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 16:20 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 16:23 : player: played "The Tech Thieves - Flowers.opus"
+Oct 07 16:27 : player: played "The Tech Thieves - Flowers.opus"
+Oct 07 22:55 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 07 22:55 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 08 10:26 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 08 10:49 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 08 10:49 : exception: No such song
+Oct 08 10:49 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 08 19:21 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 08 19:25 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 08 19:32 : player: played "'WHO WILL REMEMBER ME' by Twelve Titans Music.opus"
+Oct 08 19:32 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 08 19:34 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 08 23:40 : player: played "「Nightcore」→ Paper Crown.opus"
+Oct 09 10:02 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 09 12:35 : update: added /MISSIO - Bottom of the Deep Blue Sea (Official Video)-CFEBriOa1x0.opus
+Oct 09 16:03 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 09 16:03 : exception: No such song
+Oct 09 16:03 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 09 16:07 : player: played "MISSIO - Bottom of the Deep Blue Sea (Official Video)-CFEBriOa1x0.opus"
+Oct 09 16:08 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 09 16:13 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 09 16:17 : player: played "Neovaii - Easily.opus"
+Oct 09 16:17 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 09 16:21 : player: played "Arctic Monkeys - Do I Wanna Know.mp3"
+Oct 09 16:21 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 09 16:21 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 09 16:27 : player: played "Daft Punk - End Credits-Tron Legacy Soundtrack.opus"
+Oct 09 16:27 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 09 20:08 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 09 20:09 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 09 20:09 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 09 23:04 : player: played "[FVOst.net] EMPiRE - Black to the dreamlight.mp3"
+Oct 10 09:52 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 10 16:23 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 10 16:23 : exception: No such song
+Oct 10 16:23 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 10 16:27 : player: played "MISSIO - Bottom of the Deep Blue Sea (Official Video)-CFEBriOa1x0.opus"
+Oct 10 16:27 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 10 16:28 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 10 16:31 : player: played "The Tech Thieves - Flowers.opus"
+Oct 10 16:34 : player: played "Mia Vaile - American Dream.opus"
+Oct 10 16:34 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 10 16:39 : player: played "Arctic Monkeys - Do I Wanna Know.mp3"
+Oct 10 16:39 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 10 16:42 : player: played "Fytch - Radiate.opus"
+Oct 10 16:43 : player: played "THE BANJO BEAT - RICKY DESKTOP.opus"
+Oct 10 16:46 : player: played "►Divinity ♬ AMV.opus"
+Oct 10 16:52 : player: played "Daft Punk - End Credits-Tron Legacy Soundtrack.opus"
+Oct 10 16:52 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 10 23:07 : player: played "NEFFEX - Failure(playvk.com).mp3"
+Oct 11 08:44 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 11 11:54 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 11 11:54 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 14:37 : update: removing 4URA - Calamity-rcTe-8ui4fU.opus
+Oct 11 14:37 : update: added /4URA - Calamity.opus
+Oct 11 14:39 : update: updating /Angels & Airwaves - The Adventure.opus
+Oct 11 14:39 : update: updating /4URA - Calamity.opus
+Oct 11 14:39 : update: updating /Alec Benjamin - Let Me Down Slowly.opus
+Oct 11 14:41 : update: updating /AViVA - WICKED.opus
+Oct 11 14:41 : update: removing Bebe_Rexha_I_m_A_Mess_Official_Music_Video_.mp3
+Oct 11 14:41 : update: added /Bebe Rexha - Im A Mess.mp3
+Oct 11 14:42 : update: updating /Bebe Rexha - Im A Mess.mp3
+Oct 11 14:42 : update: updating /Bon Jovi - Bed Of Roses.mp3
+Oct 11 14:43 : update: updating /Cadmium - Melody (ft. Jon Becker).opus
+Oct 11 14:44 : update: updating /Dabin - Holding On (feat. Lowell).opus
+Oct 11 14:45 : exception: No such song
+Oct 11 14:45 : exception: No such song
+Oct 11 14:45 : exception: No such song
+Oct 11 14:45 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 14:45 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 14:45 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 14:45 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 14:45 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 15:29 : update: updating /DROELOE - Only Be Me.opus
+Oct 11 15:30 : update: updating /EXO - 'Electric Kiss'.m4a
+Oct 11 15:30 : update: updating /Extra Terra - Cyberpunk.opus
+Oct 11 15:31 : update: removing [FVOst.net] EMPiRE - Black to the dreamlight.mp3
+Oct 11 15:31 : update: updating /Faouzia - Tears of Gold.mp3
+Oct 11 15:32 : update: updating /Fytch - Radiate.opus
+Oct 11 15:33 : update: updating /Illenium - Broken Ones(Lyrics)ft. Anna Clendening.opus
+Oct 11 15:34 : update: updating /Jon Bellion - All Time Low.opus
+Oct 11 15:34 : update: updating /Keep on-Zonderling.mp3
+Oct 11 15:35 : update: updating /LiSA - Crossing Field メガスピーカー .m4a
+Oct 11 15:36 : update: updating /LiSA - unlasting.opus
+Oct 11 15:36 : update: removing Maggie_Lindemann_-_Pretty_Girl_Cheat_Codes_x_CADE_Remix.mp3
+Oct 11 15:36 : update: added /Maggie Lindemann - Pretty Girl (Cheat Codes x CADE Remix).mp3
+Oct 11 15:37 : update: updating /Maggie Lindemann - Pretty Girl (Cheat Codes x CADE Remix).mp3
+Oct 11 15:38 : update: removing [Manganime]_01._Freesia.mp3
+Oct 11 15:38 : update: added /F=.mp3
+Oct 11 15:38 : update: removing F=.mp3
+Oct 11 15:38 : update: added /Uru - Freesia.mp3
+Oct 11 15:39 : update: updating /Uru - Freesia.mp3
+Oct 11 15:39 : update: updating /Merk & Kremont - Sad Story (Out Of Luck).opus
+Oct 11 15:40 : update: updating /Mia Vaile - American Dream.opus
+Oct 11 15:40 : update: updating /Merk & Kremont - Sad Story (Out Of Luck).opus
+Oct 11 15:41 : update: removing MISSIO - Bottom of the Deep Blue Sea (Official Video)-CFEBriOa1x0.opus
+Oct 11 15:41 : update: added /MISSIO - Bottom of the Deep Blue Sea.opus
+Oct 11 15:41 : update: removing NEFFEX - Best of Me(playvk.com).mp3
+Oct 11 15:41 : update: updating /MISSIO - Bottom of the Deep Blue Sea.opus
+Oct 11 15:41 : update: added /NEFFEX - Best of Me.mp3
+Oct 11 15:42 : update: updating /NEFFEX - Best of Me.mp3
+Oct 11 15:42 : update: removing NEFFEX - Careless(playvk.com).mp3
+Oct 11 15:42 : update: added /NEFFEX - Careless.mp3
+Oct 11 15:42 : update: updating /NEFFEX - Careless.mp3
+Oct 11 15:43 : update: updating /NEFFEX - Best of Me.mp3
+Oct 11 15:43 : update: removing NEFFEX - Destiny(playvk.com).mp3
+Oct 11 15:43 : update: added /NEFFEX - Destiny.mp3
+Oct 11 15:43 : update: removing NEFFEX - Failure(playvk.com).mp3
+Oct 11 15:43 : update: updating /NEFFEX - Destiny.mp3
+Oct 11 15:43 : update: added /NEFFEX - Failure.mp3
+Oct 11 15:44 : update: updating /NEFFEX - Failure.mp3
+Oct 11 15:44 : update: removing NEFFEX - Fight Back(playvk.com).mp3
+Oct 11 15:44 : update: added /NEFFEX - Fight Back.mp3
+Oct 11 15:45 : update: updating /NEFFEX - Fight Back.mp3
+Oct 11 15:46 : update: removing NEFFEX - Greatest(playvk.com).mp3
+Oct 11 15:46 : update: added /NEFFEX - Greatest.mp3
+Oct 11 15:46 : update: updating /NEFFEX - Greatest.mp3
+Oct 11 15:47 : update: removing NEFFEX_NEFFEX_Cold_(mp3co.biz).mp3
+Oct 11 15:47 : update: added /NEFFEX - Cold.mp3
+Oct 11 15:47 : update: removing NEFFEX - Never Give Up(playvk.com).mp3
+Oct 11 15:47 : update: updating /NEFFEX - Cold.mp3
+Oct 11 15:47 : update: added /NEFFEX - Never Give Up.mp3
+Oct 11 15:48 : update: updating /NEFFEX - Never Give Up.mp3
+Oct 11 15:48 : update: removing NEFFEX_Nightcore_Graveyard_ft_NEFFEX_(mp3co.biz).mp3
+Oct 11 15:48 : update: added /NEFFEX - Graveyard.mp3
+Oct 11 15:49 : update: removing NEFFEX - Rumors -(playvk.com).mp3
+Oct 11 15:49 : update: added /NEFFEX - Rumors.mp3
+Oct 11 15:49 : update: updating /NEFFEX - Graveyard.mp3
+Oct 11 15:49 : update: updating /NEFFEX - Rumors.mp3
+Oct 11 15:49 : update: removing NEFFEX_Soldier_(mp3co.biz).mp3
+Oct 11 15:49 : update: added /NEFFEX - Soldier.mp3
+Oct 11 15:50 : update: removing NEFFEX - Unstoppable(playvk.com).mp3
+Oct 11 15:50 : update: updating /NEFFEX - Soldier.mp3
+Oct 11 15:50 : update: added /NEFFEX - Unstoppable.mp3
+Oct 11 15:51 : update: updating /NEFFEX - Unstoppable.mp3
+Oct 11 15:51 : update: updating /Neovaii - Easily.opus
+Oct 11 15:52 : update: updating /Oooi ! Oooi !!-Takehara Pistol.opus
+Oct 11 15:53 : update: updating /Remember The Name - Fort Minor.opus
+Oct 11 15:54 : update: removing RISE (ft.The Glitch Mob,Mako,and The Word Alive)-League of Legends.opus
+Oct 11 15:54 : update: added /RISE (ft.The Glitch Mob,Mako,and The Word Alive).opus
+Oct 11 15:54 : update: updating /RISE (ft.The Glitch Mob,Mako,and The Word Alive).opus
+Oct 11 15:55 : update: updating /LiSA - unlasting.opus
+Oct 11 15:55 : update: updating /LiSA - Crossing Field メガスピーカー .m4a
+Oct 11 15:56 : update: removing Ansatsu Kyoushitsu-Hello,Shooting Star.mp3
+Oct 11 15:56 : update: added /Hello,Shooting Star.mp3
+Oct 11 15:56 : update: updating /Hello,Shooting Star.mp3
+Oct 11 15:57 : update: updating /Arthur Gunn - Have you ever seen the rain.opus
+Oct 11 15:59 : update: updating /SHINee 샤이니 'Tell Me What To Do'.opus
+Oct 11 16:00 : update: updating /SKRILLEX - Bangarang feat. Sirah.opus
+Oct 11 16:01 : update: updating /Steam Phunk - Sophie (feat. Yosie).opus
+Oct 11 16:02 : update: updating /THE BANJO BEAT - RICKY DESKTOP.opus
+Oct 11 16:02 : update: removing The Greatest Show _from The Greatest Showman.mp3
+Oct 11 16:02 : update: added /The Greatest Show.mp3
+Oct 11 16:03 : update: updating /The Greatest Show.mp3
+Oct 11 16:04 : update: updating /The Tech Thieves - Flowers.opus
+Oct 11 16:04 : update: updating /The Greatest Show.mp3
+Oct 11 16:04 : update: removing U Turn - The Karma Theme (Telugu).mp3
+Oct 11 16:04 : update: added /U Turn - The Karma Theme.mp3
+Oct 11 16:05 : update: updating /U Turn - The Karma Theme.mp3
+Oct 11 16:06 : update: updating /'WHO WILL REMEMBER ME' by Twelve Titans Music.opus
+Oct 11 16:07 : update: updating /Rerezzed - Legacy - The Glitch Mob _ Daft Punk Derezzed Remix.opus
+Oct 11 16:08 : update: removing Daft Punk-Derezzed (Complete Version).opus
+Oct 11 16:08 : update: added /Daft Punk-Derezzed.opus
+Oct 11 16:08 : update: updating /Daft Punk-Derezzed.opus
+Oct 11 16:09 : update: removing Daft Punk - End Credits-Tron Legacy Soundtrack.opus
+Oct 11 16:09 : update: added /Daft Punk - End Credits.opus
+Oct 11 16:09 : update: updating /Daft Punk - End Credits.opus
+Oct 11 16:09 : update: removing DAFT PUNK - THE GAME HAS CHANGED(Tron legacy).opus
+Oct 11 16:09 : update: added /DAFT PUNK - THE GAME HAS CHANGED.opus
+Oct 11 16:10 : update: updating /DAFT PUNK - THE GAME HAS CHANGED.opus
+Oct 11 16:10 : update: updating /Daneliya Tuleshova-'Tears of Gold'(cover).m4a
+Oct 11 16:12 : update: updating /►Divinity ♬ AMV.opus
+Oct 11 16:20 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:22 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:22 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:22 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:22 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:22 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:23 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:23 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:24 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:24 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:24 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 16:25 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 17:32 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 17:32 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 17:32 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 17:35 : player: played "Fytch - Radiate.opus"
+Oct 11 17:35 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 17:39 : player: played "Halcyon - Runaway (Culture Code Remix) (feat.mp3"
+Oct 11 17:39 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 11 17:39 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 17:42 : player: played "Illenium - Broken Ones(Lyrics)ft. Anna Clendening.opus"
+Oct 11 21:11 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 21:13 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 21:13 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 21:14 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 21:14 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 21:14 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 21:20 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 21:20 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 11 22:37 : player: played "LiSA - Crossing Field メガスピーカー .m4a"
+Oct 12 09:53 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 12 10:39 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: No such song
+Oct 12 17:14 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 12 17:16 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 12 17:17 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 12 17:22 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 12 17:26 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 12 17:26 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 12 17:26 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 12 17:40 : update: updating /Ekali & Elohim - Fairy Tale.opus
+Oct 12 17:41 : update: updating /Illenium - It's All On U(feat. Liam O'Donnell).opus
+Oct 12 17:42 : update: updating /【Nightcore】→ Hurricane.opus
+Oct 12 17:42 : update: updating /「Nightcore」→ Paper Crown.opus
+Oct 12 17:43 : update: updating /kimi no toriko to relax_chill to.opus
+Oct 12 23:30 : player: played "Faouzia - Tears of Gold.mp3"
+Oct 13 09:05 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 13 16:47 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: No such song
+Oct 13 16:47 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 13 16:52 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 13 16:58 : player: played "'WHO WILL REMEMBER ME' by Twelve Titans Music.opus"
+Oct 13 23:06 : player: played "「Nightcore」→ Paper Crown.opus"
+Oct 14 10:18 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 14 19:59 : update: added /Anne-Marie & Ed Sheeran – 2002 [Official Acoustic Video]-u3ePPA0yzSU.m4a
+Oct 15 09:39 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 15 18:33 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: No such song
+Oct 15 18:33 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 15 21:08 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 15 23:51 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 16 09:40 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 16 22:38 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 17 09:49 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 17 12:34 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 17 13:42 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 17 14:08 : update: added SPYAIR – One Day/02.ULTRA.mp3
+Oct 17 14:08 : update: added SPYAIR – One Day/01.One Day.mp3
+Oct 17 14:08 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 17 14:08 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 17 23:27 : player: played "SPYAIR – One Day/02.ULTRA.mp3"
+Oct 18 08:25 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 18 15:20 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 18 16:21 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 18 16:24 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 18 16:25 : update: removing Anne-Marie & Ed Sheeran – 2002 [Official Acoustic Video]-u3ePPA0yzSU.m4a
+Oct 18 16:25 : update: added /Anne-Marie & Ed Sheeran – 2002.m4a
+Oct 18 16:25 : update: updating /Anne-Marie & Ed Sheeran – 2002.m4a
+Oct 18 18:57 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 18 19:07 : update: added /01. Whee In - Shine On You.mp3
+Oct 18 19:07 : update: added /01. In Silence.mp3
+Oct 18 19:07 : update: added /01. Shin Yong Jae (2F) - Feel You.mp3
+Oct 18 19:07 : update: added /01. 널 사랑했던 한 사람.mp3
+Oct 18 19:07 : update: added /j min 일어나 stand up.mp3
+Oct 18 19:07 : update: added /01._CHEN_Your_Moonlight.mp3
+Oct 18 19:07 : update: added /01._Heize_You_re_Cold.mp3
+Oct 18 19:07 : update: added /01. Kim Jun Seok - Forest of Secrets (Stranger).mp3
+Oct 18 19:07 : update: added /01. Heize, Punch - Midnight.mp3
+Oct 18 19:07 : update: added /[YumeOST]_Luck_Life___Namae_wo_Yobu_yo.mp3
+Oct 18 19:07 : update: added /01. Ha Hyun Woo (Guckkasten) - In This Silence.mp3
+Oct 18 19:07 : update: added /01. BAEKHYUN - Every Second.mp3
+Oct 18 19:07 : update: added /01. Gummy - Love Song.mp3
+Oct 18 19:07 : update: added /reset - mukai_taichi.mp3
+Oct 18 19:07 : update: added /01. Kim Jong Wan (NELL) - Blue Moon.mp3
+Oct 18 19:07 : update: added /01. Yoonmirae - Lost.mp3
+Oct 18 19:07 : update: added /01. Onestar - The Star.mp3
+Oct 18 19:07 : update: added /01. Shownu (Monsta X) - I'll Be There.mp3
+Oct 18 19:07 : update: added /01. Ha Sung Woon - Serendipity.mp3
+Oct 18 19:07 : update: added /02._Jo_Yuri_IZONE_My_Love_Inst._.mp3
+Oct 18 19:07 : update: added /01. You're In My Soul.mp3
+Oct 18 19:07 : update: added /01. Punch - Close To Me.mp3
+Oct 18 19:07 : update: added /01. Ra.L - Highlight.mp3
+Oct 18 19:07 : update: added /01. Kim Jae Hwan - What If.mp3
+Oct 18 19:07 : update: added /01. My Tale.mp3
+Oct 18 19:07 : update: added /01. 또 다른 문.mp3
+Oct 18 19:07 : update: added /02. 빛나리.mp3
+Oct 18 19:07 : update: added /01. J_ust, Kim Chae Won (APRIL) - Sweet Dream.mp3
+Oct 18 19:07 : update: added /Copy of 01. Sam Kim - Breath.mp3
+Oct 18 19:07 : update: added /[Lyrics] Mikinatsumi - Kimie Okuru Uta.mp3
+Oct 18 19:07 : update: added /01. N.Flying - From You.mp3
+Oct 18 19:07 : update: added /01. Wake Up.mp3
+Oct 18 19:07 : update: added /01. Psycho.mp3
+Oct 18 19:07 : update: added /01. Seung Kwan (SEVENTEEN) - Go.mp3
+Oct 18 19:07 : update: added /01. 내일은 고백할게.mp3
+Oct 18 19:07 : update: added /02. Got You.mp3
+Oct 18 19:07 : update: added /03. Your Day (feat. 김봄).mp3
+Oct 18 23:51 : player: played "SPYAIR – One Day/01.One Day.mp3"
+Oct 19 12:47 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 19 18:25 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM

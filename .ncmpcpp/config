@@ -1,0 +1,26 @@
+##System
+mpd_host = "127.0.0.1"
+mpd_music_dir = "/home/xorlv/Music"
+mpd_port = "6600"
+mpd_crossfade_time = "5"
+ncmpcpp_directory = "/home/xorlv/.ncmpcpp"
+
+##Interface
+playlist_display_mode = "classic"
+
+#song_list_format = "{{%a  %t}|{%f}}{$R%l}"
+song_list_format = "{$6{%a >>$4 %t$/r$R}|{%f}}{$R%l}"
+#song_list-format = "(25)[6]{a} (35)[4]{t} (5)[2]{l}"
+execute_on_song_change = notify-send "$(mpc current)" #&& "$HOME/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp_cover_art.sh"
+
+progressbar_look = "─╼ "
+
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_in_stereo = "no"
+visualizer_type = "spectrum"
+visualizer_output_name = "my_fifo"
+visualizer_look = "●┃"
+visualizer_color = "default"
+
+external_editor = "vim"
+
