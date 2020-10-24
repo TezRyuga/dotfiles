@@ -1,0 +1,33 @@
+conky.config = {
+	alignment = 'top_left',
+	background = true,
+	default_color = '#151d1f',
+	color1 = 'e9ecf5',
+	double_buffer = true,
+	font = 'Roboto:size=44:style=regular',
+	font2 = 'Iosevka Term:size=18:style=regular',
+	font3 = 'Source Han Sans JP:size=22:style=regular',
+	draw_shades = false,
+	draw_outline = false,
+	draw_borders = false,
+	gap_x = 50,
+	gap_y = 50,
+	out_to_console = false,
+	out_to_ncurses = false,
+	out_to_stderr = false,
+	out_to_x = true,
+	own_window = true,
+	own_window_type = 'desktop',
+	own_window_transparent = true, 
+	update_interval = 1,
+	use_xft = true,
+	uppercase = false,
+}
+
+conky.text = [[
+${font}${time %H:%M}${font2}
+ ${time %A %d %B}
+ ${battery_percent BAT1}%
+ ${desktop}
+$mpd_title
+]];
