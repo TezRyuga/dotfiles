@@ -318,3 +318,4 @@ cat <<EOM
  /_/\_\___/|_|  |_| \_/  
                         
 EOM
+echo "'tis the responsibility of the sysadmin not to break his system." | toilet -f term --rainbow

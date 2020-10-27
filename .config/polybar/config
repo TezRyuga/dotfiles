@@ -33,9 +33,10 @@ color15 = ${xrdb:color15}
 monitor = eDP1
 width = 100%
 height = 22
-background = ${colors.background}
-;background = transparent
+;background = ${colors.background}
+background = transparent
 foreground = ${colors.foreground}
+bottom = true
 
 line-size = 4
 
@@ -43,14 +44,14 @@ font-0 = JetBrainsMono Nerd Font:size=11;2
 font-1 = "FontAwesome:size=10;2"
 ;font-1 = FiraCode Nerd Font Mono:size:10:style=Light;0
 font-2 = Source Han Sans JP:size=10:style=Bold;0
-font-3 = Source Han Sans Pro:size=9;2
+font-3 = Iosevka Term:size=16:style=Regular;1
 
 wm-restack = bspwm
 tray-position = left
 
 modules-left = player-moc 
-modules-center = bspwm
-modules-right = xbacklight pavolume date battery
+;modules-center = bspwm
+modules-right = bspwm xbacklight pavolume battery
 
 [bar/black2]
 monitor = HDMI1
@@ -89,7 +90,7 @@ label-occupied-padding = 1
 
 label-urgent = %name%
 label-urgent-background = ${colors.color0}
-label-urgent-foreground = ${colors.foreground}
+label-urgent-foreground = ${colors.background}
 label-urgent-padding = 1
 
 label-empty = %name%
@@ -109,11 +110,11 @@ format-padding = 1
 type = internal/xbacklight
 format = <label>
 format-prefix = " "
-format-prefix-foreground = ${colors.foreground}
-format-prefix-background = ${colors.background}
+format-prefix-foreground = ${colors.background}
+format-prefix-background = ${colors.foreground}
 label = %percentage%%
-format-foreground = ${colors.foreground}
-format-background = ${colors.background}
+format-foreground = ${colors.background}
+format-background = ${colors.foreground}
 format-padding = 1
 
 [module/pavolume]
@@ -125,8 +126,8 @@ click-right = exec pavucontrol
 click-left = ~/.config/polybar/scripts/pavolume.sh --togmute
 scroll-up = ~/.config/polybar/scripts/pavolume.sh --up
 scroll-down = ~/.config/polybar/scripts/pavolume.sh --down
-format-foreground = ${colors.foreground}
-format-background = ${colors.background}
+format-foreground = ${colors.background}
+format-background = ${colors.foreground}
 format-padding = 1
 
 [module/date]
@@ -198,3 +199,16 @@ type = custom/script
 exec = ~/Documents/scripts/toss.sh 
 click-left = ~/Documents/scripts/toss.sh --toss
 padding = 1
+
+[module/decor]
+type = custom/text
+content-background = ${colors.foreground}
+content-foreground = ${colors.background}
+
+[module/left-end]
+inherit = module/decor
+content = "%{T3}%{T-}"
+
+[module/right-end]
+inherit = module/decor
+content = "%{T3}%{T-}"

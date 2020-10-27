@@ -6,7 +6,8 @@ conky.config = {
 	double_buffer = true,
 	font = 'Roboto:size=44:style=regular',
 	font2 = 'Iosevka Term:size=18:style=regular',
-	font3 = 'Source Han Sans JP:size=22:style=regular',
+	font3 = 'Iosevka Term:size=14:style=regular',
+	font4 = 'Hack:size=12:style=regular',
 	draw_shades = false,
 	draw_outline = false,
 	draw_borders = false,
@@ -27,7 +28,8 @@ conky.config = {
 conky.text = [[
 ${font}${time %H:%M}${font2}
  ${time %A %d %B}
- ${battery_percent BAT1}%
- ${desktop}
-$mpd_title
+${font3} ${desktop}  ${battery_percent BAT1}% 
+愈 ${uptime}
+${alignc}${font4}TASKS:   <super+shift+t>
+${font4}${head $HOME/.todo 10}
 ]];

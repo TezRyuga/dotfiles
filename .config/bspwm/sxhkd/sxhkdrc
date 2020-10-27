@@ -37,6 +37,9 @@ super + d
 super + t
 	st
 
+super + shift + t
+	~/Programs/scripts/todo
+
 super + Return
 	urxvt
 
@@ -75,7 +78,7 @@ super + shift + n
 	urxvt -name ncmpcpp -e ncmpcpp
 
 super + w
-	urxvt -e ~/Documents/scripts/wallchanger.sh
+	urxvt -e wal -i ~/Pictures/bgs/myivpmi5vys21.png && feh --bg-fill ~/Pictures/bgs/myivpmi5vys21.png
 
 super + shift + w
 	urxvt -e wal -i ~/Pictures/bgs/a9pl1pqkahh51.png && feh --bg-fill ~/Pictures/bgs/a9pl1pqkahh51.png

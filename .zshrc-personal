@@ -1,3 +1,5 @@
 #alias ncmpcpp='$HOME/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug'
 alias keybinds='vim ~/.config/bspwm/sxhkd/sxhkdrc'
 #alias cat='bat'
+alias bspcon='vim ~/.config/bspwm/bspwmrc'
+#alias cute='cute | toilet -f term --gay'

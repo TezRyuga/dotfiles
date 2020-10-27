@@ -653,3 +653,76 @@ Oct 18 19:07 : update: added /03. Your Day (feat. 김봄).mp3
 Oct 18 23:51 : player: played "SPYAIR – One Day/01.One Day.mp3"
 Oct 19 12:47 : avahi: Service 'Music Player @ tr' successfully established.
 Oct 19 18:25 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 20 11:39 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 20 22:27 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 21 09:22 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 21 23:10 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 22 10:15 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 22 19:52 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 22 23:48 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 23 10:16 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 23 10:34 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 24 13:38 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 24 16:17 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: No such song
+Oct 24 16:17 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 24 16:18 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 24 16:18 : player: played "01. Seung Kwan (SEVENTEEN) - Go.mp3"
+Oct 24 16:18 : exception: Playlist already exists
+Oct 24 16:19 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 24 16:22 : player: played "[Lyrics] Mikinatsumi - Kimie Okuru Uta.mp3"
+Oct 24 19:11 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 24 19:16 : player: played "[Lyrics] Mikinatsumi - Kimie Okuru Uta.mp3"
+Oct 24 19:50 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 24 19:51 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 24 19:55 : player: played "Oooi ! Oooi !!-Takehara Pistol.opus"
+Oct 24 20:02 : player: played "'WHO WILL REMEMBER ME' by Twelve Titans Music.opus"
+Oct 24 20:05 : player: played "「Nightcore」→ Paper Crown.opus"
+Oct 24 20:10 : player: played "【Nightcore】→ Hurricane.opus"
+Oct 24 20:13 : player: played "►Divinity ♬ AMV.opus"
+Oct 24 20:16 : player: played "Alec Benjamin - Let Me Down Slowly.opus"
+Oct 24 20:21 : player: played "Angels & Airwaves - The Adventure.opus"
+Oct 24 20:21 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 24 20:21 : player: played "Arctic Monkeys - Do I Wanna Know.mp3"
+Oct 25 08:05 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 25 10:29 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 25 18:26 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 25 22:44 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 26 09:22 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 26 11:59 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 26 12:01 : avahi: Service 'Music Player @ tr' successfully established.
+Oct 26 12:01 : exception: Failed to read mixer for 'myALSA': no such mixer control: PCM
+Oct 26 12:02 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 26 12:02 : exception: Playlist already exists
+Oct 26 12:05 : player: played "SPYAIR – One Day/01.One Day.mp3"
+Oct 26 12:05 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 26 12:09 : player: played "MISSIO - Bottom of the Deep Blue Sea.opus"
+Oct 26 12:09 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 26 12:10 : player: played "Uru - Freesia.mp3"
+Oct 26 12:10 : exception: Failed to open mixer for 'myALSA': no such mixer control: PCM
+Oct 26 23:09 : player: played "Uru - Freesia.mp3"
+Oct 27 08:43 : avahi: Service 'Music Player @ tr' successfully established.

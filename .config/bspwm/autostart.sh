@@ -31,6 +31,7 @@ xsetroot -cursor_name left_ptr &
 run sxhkd -c ~/.config/bspwm/sxhkd/sxhkdrc &
 
 #conky -c $HOME/.config/bspwm/system-overview &
+conky -c $HOME/.conkyrc &
 run nm-applet &
 run flameshot
 #run xfce4-power-manager &
@@ -40,7 +41,7 @@ picom --config $HOME/.config/bspwm/picom.conf &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 #/usr/lib/xfce4/notifyd/xfce4-notifyd &
 #nitrogen --restore &
-hsetroot -solid "#2ea546"
+#hsetroot -solid "#2ea546"
 #run caffeine &
 #run vivaldi-stable &
 #run firefox &
@@ -51,4 +52,4 @@ hsetroot -solid "#2ea546"
 #run spotify &
 #run atom &
 #$HOME/.bin/new.sh
-run mpd
+run mpd &
