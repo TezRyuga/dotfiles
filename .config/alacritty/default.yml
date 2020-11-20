@@ -1,0 +1,44 @@
+# bASE16 Gruvbox dark, medium - alacritty color config
+# Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+colors:
+  # Default colors
+  primary:
+    #background: '0x0a0f14'
+    background: '0x121212'
+    foreground: '0xf2f2f4'
+
+  # Normal colors
+  normal:
+    black: '0x333b47'
+    red: '0xf05656'
+    green: '0x2cc46e'
+    yellow: '0xecc46f'
+    blue: '0x6088dd'
+    magenta: '0xfa5477'
+    cyan: '0x64b9f2'
+    white: '0xd2d2d4'
+
+  # Bright colors
+  bright:
+    black: '0x424a56'
+    red: '0xff6565'
+    green: '0x3bd37d'
+    yellow: '0xfbd37e'
+    blue: '0x6f97ec'
+    magenta: '0xff6396'
+    cyan: '0x71c6ff'
+    white: '0xf1f1f3'
+
+draw_bold_text_with_bright_colors: true
+
+font:
+  normal:
+    family: "MesloLGS NF"
+
+size: 11.0
+
+window:
+  padding:
+    x: 20
+    y: 20
+    dynamic_padding: true

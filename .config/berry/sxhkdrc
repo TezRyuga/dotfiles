@@ -1,0 +1,140 @@
+#
+# wm independent hotkeys
+#
+
+# terminal emulator
+super + Return
+	alacritty
+
+super + shift + Return
+	urxvt
+
+# program launcher
+super + d
+	dmenu_run -i -l 7 -fn 'Dina:pixelsize=12'
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd
+
+#
+# berry hotkeys
+#
+
+super + {h,j,k,l}
+    berryc window_move {-50 0, 0 50, 0 -50, 50 0}
+
+super + shift +  {h, j, k, l}
+    berryc window_resize {-50 0, 0 50, 0 -50, 50 0}
+
+super + {1-9}
+    berryc switch_workspace {0-9}
+
+super + shift + {1-9}
+    berryc send_to_workspace {0-9}
+
+super + m
+    berryc window_monocle
+
+super + f
+    berryc fullscreen
+
+super +  p
+    berryc snap_right
+
+super + o 
+    berryc snap_left
+
+super + n
+    berryc toggle_decorations
+
+super + Tab
+    berryc cycle_focus
+
+super + q
+    berryc window_close
+
+super + x
+	~/.bin/dmenu_pwr
+
+super + w
+	~/Documents/scripts/noti.sh
+
+super + t
+	st
+
+super + shift + f
+	thunar
+
+super + shift + t
+	~/Programs/todo
+
+super + c
+    berryc window_center
+
+Print
+	flameshot gui
+
+~button1
+    berryc pointer_focus
+
+#Raises volume
+XF86AudioRaiseVolume
+    amixer set Master 10%+
+
+#Lowers volume
+XF86AudioLowerVolume
+    amixer set Master 10%-
+
+#Mute
+XF86AudioMute
+    amixer -D pulse set Master 1+ toggle
+
+
+#PLAY
+XF86AudioPlay
+    playerctl play-pause
+
+#Next
+XF86AudioNext
+    playerctl next
+
+#previous
+XF86AudioPrev
+    playerctl previous
+
+#Stop
+XF86AudioStop
+    playerctl stop
+
+#Brightness up
+XF86MonBrightnessUp
+    xbacklight -inc 10
+
+#Brightness down
+XF86MonBrightnessDown
+    xbacklight -dec 10
+
+super + u
+	~/.bin/move_window --top-left
+
+super + b
+	~/.bin/move_window --bottom-left
+
+super + comma
+	~/.bin/move_window --bottom-right
+
+super + i
+	~/.bin/move_window --top-right
+
+super + F
+	chromium
+
+super + F2
+	alacritty -e ncmpcpp
+
+super + v
+	pavucontrol
+
+super + shift + b
+	blueberry

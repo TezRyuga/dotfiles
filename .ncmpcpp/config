@@ -9,18 +9,33 @@ ncmpcpp_directory = "/home/xorlv/.ncmpcpp"
 playlist_display_mode = "classic"
 
 #song_list_format = "{{%a  %t}|{%f}}{$R%l}"
-song_list_format = "{$6{%a >>$4 %t$/r$R}|{%f}}{$R%l}"
+# song_list_format = "{$6{%a >>$4 %t$/r$R}|{%f}}{$R%l}"
 #song_list-format = "(25)[6]{a} (35)[4]{t} (5)[2]{l}"
+song_list_format = "{{%a - %t}|{%f}}{$R%l}"
+now_playing_prefix = "$b$5"
+now_playing_suffix = "$/b$9"
 execute_on_song_change = notify-send "$(mpc current)" #&& "$HOME/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp_cover_art.sh"
 
-progressbar_look = "─╼ "
+progressbar_look = "-c"
+progressbar_color = "black"
+colors_enabled = "yes"
+centered_cursor = "yes"
+main_window_color = "default"
+playlist_shorten_total_times = "yes"
 
 visualizer_fifo_path = "/tmp/mpd.fifo"
 visualizer_in_stereo = "no"
-visualizer_type = "spectrum"
+#visualizer_type = "spectrum"
 visualizer_output_name = "my_fifo"
 visualizer_look = "●┃"
 visualizer_color = "default"
 
 external_editor = "vim"
+
+header_visibility = "no"
+statusbar_visibility = "no"
+titles_visibility = "no"
+
+follow_now_playing_lyrics = "yes"
+store_lyrics_in_song_dir = "yes"
 

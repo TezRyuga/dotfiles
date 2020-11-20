@@ -1,0 +1,16 @@
+#!/bin/sh
+
+case "$(echo -e "Shutdown\nRestart\nLogOut\nSuspend\nLock" | dmenu \
+  -nb "#022527" \
+  -nf "#8cbeb8" \
+  -sf "#022527" \
+  -sb "#ea3e20" \
+-b -i -p \
+"Power: " -l 5)" in
+Shutdown) exec systemctl poweroff;;
+Restart) exec systemctl reboot;;
+LogOut) exec loginctl kill-session $XDG_SESSION_ID;;
+Suspend) exec systemctl suspend;;
+Lock) exec systemctl --user start lock.target;;
+esac
+

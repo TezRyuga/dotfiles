@@ -1,0 +1,39 @@
+conky.config = {
+	alignment = 'middle_left',
+	background = true,
+	maximum_width = 1000,
+	default_color = '#aaaaaa',
+	color1 = '#010102',
+	color2 = '#e6e6d2',
+	double_buffer = true,
+	font = 'Roboto:size=44:style=regular',
+	font1 = 'DSEG7 Modern:size=40:style=Bold',
+	font2 = 'DSEG7 Modern:size=18:style=Regular',
+	font3 = 'Iosevka Term:size=16:style=regular',
+	font4 = 'Hack:size=12:style=regular',
+	draw_shades = false,
+	draw_outline = false,
+	draw_borders = false,
+	gap_x = 30,
+	gap_y = 50,
+	out_to_console = false,
+	out_to_ncurses = false,
+	out_to_stderr = false,
+	out_to_x = true,
+	own_window = false,
+	own_window_class = 'conky',
+	own_window_type = 'desktop',
+	own_window_transparent = true, 
+	update_interval = 1,
+	use_xft = true,
+	uppercase = false,
+}
+
+conky.text = [[
+${color2}${alignc}${font1}${time %H:%M:%S}${font2}
+
+${font2}${alignc}${time %s}
+
+${alignc}${font3}${time %b %d %Y %A}
+
+]];
